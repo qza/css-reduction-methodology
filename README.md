@@ -31,13 +31,13 @@ Do not use for:
 
 ### As a Claude Code user-level skill (available in every project)
 ```bash
-git clone https://github.com/zee/css-reduction-methodology.git \
+git clone https://github.com/qza/css-reduction-methodology.git \
   ~/.claude/skills/css-reduction-methodology
 ```
 
 ### As a project-level skill (only in this repo)
 ```bash
-git clone https://github.com/zee/css-reduction-methodology.git \
+git clone https://github.com/qza/css-reduction-methodology.git \
   .claude/skills/css-reduction-methodology
 ```
 
